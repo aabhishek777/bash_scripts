@@ -6,7 +6,6 @@ array=( 1 2 hi )
 # every element would be comma saperated 
 
 #append in array
-
 array+=( 6 9 hello )
 
 echo ${array[*]}
